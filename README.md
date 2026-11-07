@@ -22,4 +22,4 @@ Most of this is private. I'm happy to walk anyone through it.
 
 - [development-team-health-check](https://github.com/lukesargeant/development-team-health-check): the question deck I use to get teams talking candidly about how they really work.
 
-London · TypeScript, edge runtimes, Durable Objects · whatever language the problem needs
+London · Cloud, AWS, Java, Python, TypeScript, edge runtimes, Durable Objects · whatever language the problem needs
