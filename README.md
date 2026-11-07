@@ -9,13 +9,6 @@ I build trading systems, and the teams that build them. Right now I'm exploring 
 - **A tamper-evident eval ledger for AI products.** Every run is hash-chained, so a test set can't quietly shrink: skipped cases count as failures and removals need a stated reason. *Show the denominator.*
 - **Correction → test case → better model.** In a document-understanding app, every human correction becomes a test case and an LLM routine improves the reader against the growing corpus.
 
-#### How I think about AI in engineering
-
-- **Evals are the new tests.** An AI feature without a visible, honest pass rate is a demo.
-- **Agents go through the same gates as engineers.** On my own systems, agents open PRs, review code, triage incidents and roll back bad deploys. All of that runs through CI, an approval inbox, an audit log and a kill switch.
-- **In regulated domains, audit is the architecture.** Append-only logs, hash chains and a human in the loop where the risk is. That's what lets AI move fast somewhere a mistake costs money.
-- **Transformation is a product problem, not a mandate.** Time as a chief of staff taught me that change sticks when it's tied to outcomes the business already measures, and when it's measured honestly.
-
 #### Teams
 
 - [development-team-health-check](https://github.com/lukesargeant/development-team-health-check): the question deck I use to get teams talking candidly about how they really work.
