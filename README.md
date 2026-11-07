@@ -1,6 +1,6 @@
 ### Luke Sargeant
 
-I build trading systems, and the teams that build them. At the moment I'm working out what an engineering org looks like when agents do a real share of the work.
+I build trading systems, and the teams that build them. Right now I'm exploring what an engineering org looks like when agents do a real share of the work.
 
 #### What I'm building / things I've built
 
